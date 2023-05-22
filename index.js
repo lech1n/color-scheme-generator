@@ -21,4 +21,4 @@ function generateScheme(){
 		}
 	})}
 
-
+document.querySelector("button").addEventListener("click" , generateScheme)
